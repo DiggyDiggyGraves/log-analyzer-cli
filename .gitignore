@@ -3,3 +3,4 @@ __pycache__/
 *.log
 report.json
 report.md
+logs.db
