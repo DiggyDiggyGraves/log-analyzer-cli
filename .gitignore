@@ -1,3 +1,5 @@
 logs.db
 __pycache__/
 *.log
+report.json
+report.md
